@@ -30,6 +30,7 @@ def main():
     except ValueError:
         print("Error: La altura debe ser un numero entero")
         return
+        
     reloj_arena()
 
 if __name__ == "__main__":
